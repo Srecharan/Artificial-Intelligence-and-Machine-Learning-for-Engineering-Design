@@ -1,16 +1,22 @@
-# Artificial-Intelligence-and-Machine-Learning-for-Engineering-Design
-Coursework:
-Introduction to Machine Learning
-Linear Least Squares Regression
-Logistic Regression
-Support Vector Machines (SVM)
-Decision Trees
-Feature Engineering
-Fundamentals of Neural Networks (Neural Networks I)
-Advanced Neural Networks concepts (Neural Networks II)
-Error Metrics and their applications
-Model Training techniques
-Unsupervised Learning approaches
-Dimensionality Reduction strategies
-Ensemble Methods
-Basics of Deep Learning (Introduction to Deep Learning)
+# Artificial Intelligence and Machine Learning for Engineering Design
+
+## Overview
+This repository contains course materials, assignments, and implementation notebooks for the Artificial Intelligence and Machine Learning for Engineering Design course. The materials cover fundamental to advanced concepts in machine learning with applications to engineering design problems.
+
+## Course Content
+
+### Topics Covered
+- Introduction to Machine Learning
+- Linear Least Squares Regression
+- Logistic Regression
+- Support Vector Machines (SVM)
+- Decision Trees
+- Feature Engineering
+- Fundamentals of Neural Networks
+- Advanced Neural Networks Concepts
+- Error Metrics and Their Applications
+- Model Training Techniques
+- Unsupervised Learning Approaches
+- Dimensionality Reduction Strategies
+- Ensemble Methods
+- Introduction to Deep Learning
